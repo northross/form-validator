@@ -11,20 +11,20 @@
 
 ###### Form
 
-<img src="https://imgur.com/JccPoZ0" width="800">
+<img src="https://i.imgur.com/JccPoZ0.png" width="800">
 
 ###### Checking Validity
 
-<img src="https://imgur.com/6Iy4G3A" width="800">
+<img src="https://i.imgur.com/6Iy4G3A.png" width="800">
 
 ###### Email Code Logic
 
-<img src="https://imgur.com/HcskLgu" width="800">
+<img src="https://i.imgur.com/HcskLgu.png" width="800">
 
 ###### Length Checker Code
 
-<img src="https://imgur.com/jMY794L" width="800">
+<img src="https://i.imgur.com/jMY794L.png" width="800">
 
 ###### Password Code Logic
 
-<img src="https://imgur.com/mQ6nJuz" width="800">
+<img src="https://i.imgur.com/mQ6nJuz.png" width="800">
