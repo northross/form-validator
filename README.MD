@@ -1,25 +1,30 @@
-#Form Validator#
+# Form Validator
 
-###This project was created for practice of creating a form validator and designing logic behind user access.###
+### This project was created for practice of creating a form validator and designing logic behind user access.
 
-####This form checks for:####
+#### This form checks for:
 
-- valid email
+- validity of email
 - length of username
 - length of password
 - password confirmation check
 
-Form
-[Form](https://imgur.com/JccPoZ0)
+###### Form
 
-Checking Validity
-[Form](https://imgur.com/6Iy4G3A)
+<img src="https://imgur.com/JccPoZ0" width="800">
 
-Email Code Logic
-[Email Logic](https://imgur.com/HcskLgu)
+###### Checking Validity
 
-Length Checker Code
-[Length Logic](https://imgur.com/jMY794L)
+<img src="https://imgur.com/6Iy4G3A" width="800">
 
-Password Code Logic
-[Password Confirmation](https://imgur.com/mQ6nJuz)
+###### Email Code Logic
+
+<img src="https://imgur.com/HcskLgu" width="800">
+
+###### Length Checker Code
+
+<img src="https://imgur.com/jMY794L" width="800">
+
+###### Password Code Logic
+
+<img src="https://imgur.com/mQ6nJuz" width="800">
