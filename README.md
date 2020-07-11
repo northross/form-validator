@@ -1,6 +1,6 @@
 # Form Validator
 
-### This project was created for practice of creating a form validator and designing logic behind user access.
+### This project was created for the practice of designing the logic behind user access.
 
 #### This form checks for:
 
