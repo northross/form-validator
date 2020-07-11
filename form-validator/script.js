@@ -18,7 +18,7 @@ function showSuccess(input) {
   formControl.className = 'form-control success';
 }
 
-// Check email is valid
+// Check email validity
 function checkEmail(input) {
   const re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
   if (re.test(input.value.trim())) {
@@ -28,7 +28,7 @@ function checkEmail(input) {
   }
 }
 
-// check Require
+// Check Require
 function checkRequired(inputArr) {
   inputArr.forEach(function (input) {
     if (input.value.trim() === '') {
@@ -62,10 +62,12 @@ function checkPasswords(input1, input2) {
     showError(input2, 'Passwords do not match');
   }
 }
+
 //  Get field
 function getFieldName(input) {
   return input.id.charAt(0).toUpperCase() + input.id.slice(1);
 }
+
 // Event listeners
 form.addEventListener('submit', function (event) {
   event.preventDefault();
